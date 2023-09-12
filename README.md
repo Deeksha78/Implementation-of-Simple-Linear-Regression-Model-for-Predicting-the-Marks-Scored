@@ -48,7 +48,7 @@ from sklearn.linear_model import LinearRegression
 regressor=LinearRegression()
 regressor.fit(x_train,y_train)
 y_pred=regressor.predict(x_test)
-
+y_pred
 y_test
 
 #graph plot for training data
@@ -99,6 +99,10 @@ Array value of X
 Array value of Y
 
 ![exp2 img4](https://github.com/Deeksha78/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116204/246f41fb-9dcb-4c54-87f4-b3ed5ee1800e)
+
+Values of Y prediction
+
+![mL1](https://github.com/Deeksha78/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128116204/3ac058e4-44fb-4d6e-98f8-404b0753d5d5)
 
 
 Array values of Y test
